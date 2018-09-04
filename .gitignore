@@ -1,2 +1,6 @@
 /target
 **/*.rs.bk
+/.idea/
+.idea/checkstyle-idea.xml
+.idea/data_structures.iml
+.idea/workspace.xml
